@@ -26,3 +26,6 @@ GUIアプリケーションの作成を目的に制作しました。
 ・占い種類の追加
 ・結果保存機能
 ・デザインの向上
+
+![haikei](https://github.com/user-attachments/assets/f8176fe0-7ff5-4df7-8861-6688aa7f0b9f)
+
