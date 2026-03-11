@@ -27,5 +27,6 @@ GUIアプリケーションの作成を目的に制作しました。
 ・結果保存機能
 ・デザインの向上
 
-![haikei](https://github.com/user-attachments/assets/f8176fe0-7ff5-4df7-8861-6688aa7f0b9f)
+<img width="1366" height="720" alt="スクリーンショット 2026-03-11 163601" src="https://github.com/user-attachments/assets/036cfc9b-4eec-4409-a1f0-e81516f5e7cd" />
+
 
