@@ -3,6 +3,7 @@
 ## ■ 概要
 Javaを使用して制作した簡単な占いアプリです。
 誕生月・性別・好きな色を選択してボタンを押すと占い結果が表示されるアプリです。
+<img width="1366" height="720" alt="スクリーンショット 2026-03-11 163601" src="https://github.com/user-attachments/assets/036cfc9b-4eec-4409-a1f0-e81516f5e7cd" />
 
 ## ■ 制作目的
 ①JavaのGUI操作に慣れるため
@@ -28,6 +29,6 @@ Javaを使用して制作した簡単な占いアプリです。
 ・デザインの向上
 ・プログラムコンパクトにしたい
 
-<img width="1366" height="720" alt="スクリーンショット 2026-03-11 163601" src="https://github.com/user-attachments/assets/036cfc9b-4eec-4409-a1f0-e81516f5e7cd" />
+
 
 
